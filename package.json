@@ -1,0 +1,19 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is test to learn",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anyamcburney/git-test.git"
+  },
+  "author": "Anna Mcburney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anyamcburney/git-test/issues"
+  },
+  "homepage": "https://github.com/anyamcburney/git-test#readme"
+}
